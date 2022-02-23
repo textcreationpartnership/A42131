@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grievances represented by the Estates of Scotland, to the King's Majesty, to be redressed in Parliament together with His Majesties instructions to his commissioner, for redressing the same.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42131</idno>
+            <idno type="STC">Wing G1980</idno>
+            <idno type="STC">ESTC R40524</idno>
+            <idno type="EEBO-CITATION">19347562</idno>
+            <idno type="OCLC">ocm 19347562</idno>
+            <idno type="VID">108746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1671:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grievances represented by the Estates of Scotland, to the King's Majesty, to be redressed in Parliament together with His Majesties instructions to his commissioner, for redressing the same.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>William III, King of England, 1650-1702.</author>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>England and Wales. Sovereign (1689-1694 : William and Mary)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London, and re-printed at Edinburgh,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>The instructions of King William to the Duke of Hamilton for the establishment of the new government in Scotland are dated successively May 31, July 4, and July 17, 1689.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1689-1745.</term>
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:108746:1" rendition="simple:additions"/>
+            <head>The Grievances Repreſented by the Eſtates of <hi>Scotland,</hi> to the KING'S Majeſty, to be Redreſſed in Parlia<g ref="char:EOLhyphen"/>ment. Together with His Majeſties Inſtructions to His Commiſſioner, for Redreſſing the ſame.</head>
+            <p>Publiſhed by Authority.</p>
+            <p>Inſtruction 2. 1. <hi>THE Estates of the Kingdom of</hi> Scotland, <hi>Do Re<g ref="char:EOLhyphen"/>preſent, That the Committee of Parliament, cal<g ref="char:EOLhyphen"/>led the Articles, is a great Grievance to the Na<g ref="char:EOLhyphen"/>tion, and there ought to be no Committees of Parliament, but ſuch as are freely Choſen by the Estates, to prepare Motions and Overtures that are firſt made in the Houſe.</hi>
+            </p>
+            <p>Inſtr. 4. 2. <hi>That the firſt Act of Parliament</hi> 1669. <hi>Is inconſiſtent with the Establiſhment of the Church-Government, now deſired, and ought to be Abrogate.</hi>
+            </p>
+            <p>Inſtr. 6. 3. <hi>That Forefaultures in prejudice of Vaſsals, Creditors and Heirs of Entail, are a great Grievance.</hi>
+            </p>
+            <p>Inſtr. 10. 4. <hi>That the obliging of the Liedges to Depone upon Crimes againſt Delinquents, otherwayes than when they are Adduced in ſpecial Proceſses, as Wit<g ref="char:EOLhyphen"/>neſſes, is a great Grievance.</hi>
+            </p>
+            <p>Inſtr. 7. 5. <hi>That Aſſizes of Error are a great Grievance, and that Juries be conſidered by Parliament.</hi>
+            </p>
+            <p>Inſtr. 8. 6. <hi>That the eighteenth Act of Parliament</hi> 1681. <hi>Declaring Accumu<g ref="char:EOLhyphen"/>lative Juriſdiction, is a Grievance.</hi>
+            </p>
+            <p>Inſtr. 9. 7. <hi>That the Commiſsariot Courts, as they are now Conſtitute, are a Grievance.</hi>
+            </p>
+            <p>Inſtr. 7. 8. <hi>That the Twenty ſeventh Act of Parliament</hi> 1663. <hi>Giving to the King Power to impoſe Cuſtom at pleaſure, upon Forraign Import and Trade, is a Grievance, and prejudicial to the Trade of the Nation.</hi>
+            </p>
+            <p>Inſtr. 11. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>That the not taking an Effectual Courſe to Repreſs the Depredati<g ref="char:EOLhyphen"/>ons and Robberies by the Highland Clans is a Grievance.</hi>
+            </p>
+            <p>Inſtr. 13. 10. <hi>That the Baniſhment by the Council of the greateſt part of the Ad<g ref="char:EOLhyphen"/>vocats from</hi> Edinburgh, <hi>without a Proceſs, was a Grievance.</hi>
+            </p>
+            <p>Inſtr. 12. 11. <hi>That most of the Laws Enacted in the Parliament</hi> Anno 1685. <hi>are Impious and Intollerable Grievances.</hi>
+            </p>
+            <p>Inſtr. 14. 12. <hi>That the Marriage of a King or Queen of this Realm to a Pa<g ref="char:EOLhyphen"/>piſt, is Dangerous to the Protestant Religion, and ought to be provided againſt.</hi>
+            </p>
+            <p>Inſtr. 19  13. <hi>That the Levying, or Keeping on Foot a Standing Army in time of peace, without Conſent of Parliament, is a Grievance.</hi>
+            </p>
+            <p>Inſtr. 15. 14. <hi>That all Grievances relating to the Manner and Meaſure of the Leidges, their Repreſentation in Parliament be Conſidered and Redreſſed in the firſt Parliament.</hi>
+            </p>
+            <p>Inſtr. 16. 15. <hi>That the Grievances of the Burrows be Conſidered and Redreſsed in the first Parliament.</hi>
+            </p>
+            <p>Hamilton.</p>
+            <div type="part">
+               <pb n="2" facs="tcp:108746:2"/>
+               <head>WILLIAM R.</head>
+               <head>Inſtructions to Our Right Truſty, and Right Entirely Beloved Couſin and Coun<g ref="char:EOLhyphen"/>cellor, <hi>William</hi> Duke of <hi>Hamilton,</hi> Our Commiſsioner for holding the Firſt Seſsion of Our next enſuing Parliament of Our Ancient Kingdom of <hi>Scotland.</hi>
+               </head>
+               <p n="1">1. YOU are to paſs an Act for turning the Meeting of Eſtates into a Par<g ref="char:EOLhyphen"/>liament; and the three Eſtates are to conſiſt of the Noblemen, Ba<g ref="char:EOLhyphen"/>rons, and Burgeſſes.</p>
+               <p>
+                  <hi>Grievance</hi> 1. 2. You are to paſs an Act for Regulating the Articles, to con<g ref="char:EOLhyphen"/>ſiſt of twenty four perſons, beſides the Officers of State, whereof eight are to be choſen by the Noblemen, of their Eſtate; eight by the Barons, and eight by the Boroughs, of their Eſtate: And in caſe of the Deceaſe of any of theſe perſons, that Eſtate out of which the perſon Deceaſed, ſhall ſupply the ſame: Theſe are to prepare Matters and Acts for the Parliament, but not to exclude the Parliament to take any Matters into their Conſideration, though it hath been thrown out, or rejected in the Articles; and all former Acts, eſpecially the firſt Act, Parliament 1ſt, <hi>Ch.</hi> 2, Seſſ. 3d, inconſiſtent with this, are to be Reſcinded.</p>
+               <p n="3">3. You are to paſs an Act Recognizing Our, and the Queen's Royal Autho<g ref="char:EOLhyphen"/>rity, and Right of the Crown; Ordaining an Oath of Allegiance to be taken in place of all former Oaths of Allegiance and Supremacy, Declarations and Teſts.</p>
+               <p>
+                  <hi>Griev.</hi> 2. 4. You are to paſs an Act, Eſtabliſhing that Church-Government, which is moſt agreeable to the Inclinations of the People, reſcinding the Act of Parliament 1669, and all other Acts inconſiſtent therewith.</p>
+               <p n="5">5. You are to endeavour to paſs an Act for raiſing ſuch a ſupply, as may be ne<g ref="char:EOLhyphen"/>ceſſary for ſecuring the Kingdom from the preſent danger, and Forreign Inva<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>
+                  <hi>Griev.</hi> 3. 6. You are to paſs an Act, that Forfeitures ſhall only be extended to ſuch Intereſt as the Rebel had, and that Innocent Vaſſals, or Lawful Cre<g ref="char:EOLhyphen"/>ditors for Debts upon Record ſhall not be prejudged, nor ſuch Heirs of Entail, whoſe Rights of Succeſſion are eſtabliſhed by a publick Infeſtment.</p>
+               <p>
+                  <hi>Griev.</hi> 5. 7. You are to paſs an Act, either to take away Aſſizes of Error, or otherwiſe, that they ſhall take Place as well againſt a Jury that Condemns, as a Jury that Aſſoilzies any Pannal.</p>
+               <p>
+                  <hi>Griev.</hi> 6. 8. You are to paſs an Act, reſcinding the 18th Act of Parliament 1681. aſſerting the Prerogative in Point of Juriſdiction.</p>
+               <p>
+                  <hi>Griev.</hi> 7. 9 You are to paſs an Act, regulating the Abuſes in the Commiſſary Courts, and all other Inferiour Courts.</p>
+               <p>
+                  <hi>Griev.</hi> 4. 10. We are ſatisfy'd, that an Act ſhould be paſt for ſecuring the Lei<g ref="char:EOLhyphen"/>ges againſt Inquiries by way of Inquiſition, but in Reſpect of the preſent Jun<g ref="char:EOLhyphen"/>cture of Affairs, this matter would be well conſidered by the Parliament; and therefore when the Terms of this Act ſhall be adjuſted, you are to tranſmit the ſame to US, that We may give you particular Inſtructions thereanent.</p>
+               <p>
+                  <hi>Griev.</hi> 9. 11. You are to endeavour to procure an Act for an Effectual Courſe for Redreſſing the Depredations, and Robberies by the <hi>Highland-Clanns,</hi> and when this Matter is digeſted, you are to tranſmit the Propoſals to US, that you may get particular Inſtructions thereanent.</p>
+               <p>
+                  <hi>Griev.</hi> 11. 12. You are to paſs an Act, reſcinding ſuch Acts as were made in Parliament 1685. as are juſtly grievous to the People.</p>
+               <p>
+                  <hi>Griev.</hi> 10. 13. You are to paſs an Act, that no Perſon be Baniſhed out of the Kingdom, or from any part thereof ſummarly without a Proceſs.</p>
+               <p>
+                  <hi>Griev.</hi> 12. 14. You are to paſs an Act, that the Kings, or Queens of that Realm ſhall not Marry with Papiſts under this Certification, that a Popiſh
+<pb n="3" facs="tcp:108746:2"/>Queen Conſort, or the Husband of a Sovereign Queen ſhall be incapable to enjoy the Benefit, or, Advantage of any Proviſions, or Settlements, which the Law provides, or particular Contracts, or Agreements may have ſecured to them.</p>
+               <p>
+                  <hi>Griev.</hi> 14. 15. You are to paſs an Act that the greater Shires of that King<g ref="char:EOLhyphen"/>dom, ſuch as <hi>Lanerk, Air, Perth, Fife, Aberdeen,</hi> and <hi>Midlothian,</hi> or o<g ref="char:EOLhyphen"/>thers where it ſhall be found convenient, may ſend three or four Commiſſio<g ref="char:EOLhyphen"/>ners, to Parliament, that the Repreſentation may be the more equal.</p>
+               <p>
+                  <hi>Griev.</hi> 15. 16. You are to paſs an Act, ratifying the Priviledges of the Bur<g ref="char:EOLhyphen"/>roughs, and ſecuring their Rights, in Electing of their own Magiſtrats for the Future, and that the Burroughs of <hi>Glaſgow</hi> and St. <hi>Andrews</hi> ſhall have the E<g ref="char:EOLhyphen"/>lecting of their own Provoſts, Baillies, and Town-Council, as the other Royal Burroughs of the Kingdom have.</p>
+               <p>
+                  <hi>Griev.</hi> 8. 17. You are to endeavour to procure an Act, or Acts for the En<g ref="char:EOLhyphen"/>couragement of Trade, and if the 27th Act of Parliament 1663. be found inconvenient, it may be regulated, or reſcinded, and when the Propoſals are adjuſted you are to tranſmit them to US, that you may receive our Inſtru<g ref="char:EOLhyphen"/>ctions thereanent.</p>
+               <p n="18">18. You are to paſs an Act for regulating the Univerſities, ſo as good Or<g ref="char:EOLhyphen"/>der and Diſcipline may be preſerved, and that Pious and Learned Perſons may be employed and provided.</p>
+               <p>
+                  <hi>Griev.</hi> 13. 19. You are to paſs an Act againſt a ſtanding Army in time of Peace, but ſo as the Guards, Garriſons, and neceſſary ſtanding Forces may be continued.</p>
+               <p n="20">20. You are from time to time to adjourn the Parliament as you ſhall find neceſſary, and in reſpect the meeting may not be fully conveened upon the 5th Day of <hi>June,</hi> which is appointed for the firſt Dyet; Therefore after paſſing the firſt Act of turning them into a Parliament, you are to adjourn them to the 17th Day of the Month.</p>
+               <p n="21">21. You are impowered to confer the Honour of Knighthood upon ſuch Perſons as you ſhall find deſerving of the ſame, not exceeding the Number of Six.</p>
+               <p>You have particular Inſtructions anent what is repreſented to US, as Grie<g ref="char:EOLhyphen"/>vances, if there be any other things that may be neceſſary for the Good of that Kingdom to be paſt into Laws, you are to acquaint U S, from time to time with ſuch Overtures, that you may be authoriſed with particular Inſtru<g ref="char:EOLhyphen"/>ctions thereanent.</p>
+               <closer>
+                  <dateline>Given under Our Royal Hand and Signet, at Our Court at <hi>Copt-Hall,</hi> 
+                     <date>the 31th day of May, 1689. And of our Reign the Firſt Year,</date>
+                  </dateline>
+                  <signed>By His Majesties Command, <hi>Melvill.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>William R.</head>
+               <head>An <hi>Additional Inſtruction</hi> to Our Right Trusty, and Right entirely beloved Couſin and Councellor, <hi>William</hi> Duke of <hi>Hamilton,</hi> our Commiſſioner.</head>
+               <p>YOu are to Nominate Our Right Truſty, and Well beloved Couſin and Councellor, <hi>William</hi> Earl of <hi>Crawfurd,</hi> to be Preſident of the firſt Seſſion of Parliament, in regard We have no Chancellor for the time being.</p>
+               <closer>
+                  <dateline>Given under Our Royal Hand and Signet, at Our Court at <hi>Copt-Hall,</hi> 
+                     <date> the 31th day of <hi>May, 1689.</hi> And of our Reign the Firſt Year.</date>
+                  </dateline>
+                  <signed>By his Majesties Command, <hi>Melvill.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:108746:3" rendition="simple:additions"/>
+               <head>WILLIAM <hi>R.</hi>
+               </head>
+               <head>Additional Inſtructions to Our Right Truſty, and Right Entirely beloved Couſin and Councellor, <hi>VVilliam</hi> Duke of <hi>Hamilton,</hi> Our Commiſſioner.</head>
+               <p n="1">1. BY the Second Article of your Inſtructions, Dated the 31th of <hi>May</hi> laſt, you was impower'd to paſs an Act for regulating the Committee, Cal<g ref="char:EOLhyphen"/>led the Articles, which were to conſiſt of Twenty four perſons, beſides the Offi<g ref="char:EOLhyphen"/>cers of State; Notwithſtanding of which, Theſe are to authorize you, to paſs an Act for them to conſiſt of Thirty three Perſons, beſides the Officers of State; whereof Eleven to be choſen out of every Eſtate, according to your former Inſtru<g ref="char:EOLhyphen"/>ctions, who are to prepare Matters, <hi>&amp;c.</hi> as is therein expreſſed, not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xcluding the Parliament to take Matters into their Conſideration, though it hath been rejected in the Committee, nor to prevent their moving of any thing, and re<g ref="char:EOLhyphen"/>gulating of it to them, and the ſaid eleven out of every Eſtate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be choſen Monthly, or oftner, if the Parliament think it fit, and all former Acts eſpeci<g ref="char:EOLhyphen"/>ally the firſt <hi>Act Ch.</hi> 2. <hi>Seſſ.</hi> 3. inconſiſtent with this, are to be Reſcinded.</p>
+               <p n="2">2. You are to paſs what Acts ſhall be propoſed for ſettling the Church-Go<g ref="char:EOLhyphen"/>vernment, according to your former Inſtruction.</p>
+               <p n="3">3. You are to paſs an Act, Reſcinding all Forfeitures paſt againſt any of Our Subjects, either in Parliament, or Criminal Court, ſince the firſt day of <hi>Janua<g ref="char:EOLhyphen"/>ry</hi> 1665. which ſhall be thought fit by the Parliament to be Reſcinded: Like<g ref="char:EOLhyphen"/>wiſe you are to conſent to what Our Parliament ſhall propoſe for Reſtitution to be made of Fines, or Compoſitions for Fines, or Forfeitures, from thoſe who had the Benefit of them, and you are to Reſcind ſuch Acts as were made in the ye<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs 1681. and 1685. as are juſtly grievous.</p>
+               <p>although the firſt of the above Inſtructions is not complyed with yet, you are to move the other two, and have them paſt before any Adjournment.</p>
+               <closer>
+                  <dateline>Given under Our Royal Hand and Signet, at our Court at <hi>Hampton Court,</hi> 
+                     <date>the 4th Day of <hi>July, 1689.</hi> And of our Reign the Firſt Year.</date>
+                  </dateline>
+                  <signed>By His Majeſties Command, <hi>Melvill.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>WILLIAM <hi>R.</hi>
+               </head>
+               <head>Additional Instructions to Our Right Truſty, and Right entirely beloved Couſin and Councellor, <hi>William</hi> Duke of <hi>Hamilton,</hi> Our Commiſſioner.</head>
+               <p n="1">1. YOu are to touch the Act already paſt, aboliſhing Epiſcopacy as ſoon as you can, and to Reſcind all Acts inconſiſtent therewith.</p>
+               <p n="2">2. You are to Reſcind the Act paſt in 1685. annexing Forfeitures to the Crown.</p>
+               <p n="3">3. By the third Article of your Inſtructions, Dated the 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h inſtant, We did impower you to reduce all Forfeitures paſt againſt any of Our Subjects ſince <hi>January</hi> 1665. Now We do Authorize you to paſs what Acts ſhall be pro<g ref="char:EOLhyphen"/>poſed for reducing Forfeitures, <hi>&amp;c.</hi> ſince the year 1660, if the Parliament deſire it, and to conſent to what ſhall be propoſed for making reſtitution of Fines, or Compoſitions for Fines or Forfeitures, as is expreſſed in the fore-men<g ref="char:EOLhyphen"/>tioned Article, and you are to touch what Acts paſſes conform to this.</p>
+               <p n="4">4. You are to recommend to the Parliament to raiſe a Supply of Money for paying the Army, and ſupporting the Government, according to your firſt In<g ref="char:EOLhyphen"/>ſtructions.</p>
+               <p n="5">5. You are to allow the Parliament to chooſe Committees for the three fore<g ref="char:EOLhyphen"/>going Inſtructions notwithſtanding the Committee of the Articles be not ap<g ref="char:EOLhyphen"/>pointed, as alſo for what concerns Church Government.</p>
+               <closer>
+                  <dateline>Given under Our Royal Hand and Signet, at Our Court at <hi>Whitehall,</hi> 
+                     <date>the 17th day of <hi>July 1689.</hi> And of Our Reign the Firſt Year.</date>
+                  </dateline>
+                  <signed>By His Majesties Command, <hi>Melvill.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> 1689.</p>
+            <pb facs="tcp:108746:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
